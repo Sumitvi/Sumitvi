@@ -1,39 +1,24 @@
-# 👋 Hello, I'm Sumit!
+# 💫 About Me:
+Final-year Computer Science student<br>Strong foundation in Java, Spring Boot, Spring Security, JPA, and REST APIs<br>Building full-stack applications using React, Tailwind CSS, and Spring Boot<br>Familiar with relational and non-relational databases like MySQL, PostgreSQL, and MongoDB<br>Experience with Firebase Authentication, JWT, and cloud deployment platforms like Railway and Vercel<br>Actively using Git and GitHub for version control and collaboration
 
-## 🚀 About Me
-I am a passionate and detail-driven Full-Stack Java Developer with a strong foundation in backend technologies. With in-depth expertise in Java and its associated frameworks, I specialize in crafting scalable and high-performance applications. My curiosity extends to frontend technologies and UI/UX design, allowing me to create seamless and visually appealing user experiences. As a continuous learner, I embrace challenges and thrive on staying ahead of the curve in the ever-evolving tech landscape.
 
-## 🛠️ Technical Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-vishwakarma-9b0a7b271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitvish196@gmail.com) 
 
-### 🌟 Programming Languages
-- **Core Java**
-- **Advanced Java**
-- **JavaScript**
-- **HTML & CSS**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sumitvi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sumitvi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitvi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ⚡ Technologies & Frameworks
-- **Spring Boot** – Building microservices and enterprise-level applications
-- **Spring MVC** – Developing robust web applications
-- **Spring Data JPA** – Simplifying database interaction with JPA
-- **Spring Security (Basic)** – Enabling authentication and authorization mechanisms
-- **JDBC** – Efficient database connectivity and interaction
-- **RESTful APIs** – Designing and consuming RESTful services
-- **Bootstrap** – Crafting responsive and user-friendly web designs
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sumitvi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🗄️ Databases
-- **MySQL** – Relational database management systems (RDBMS)
-- **MongoDB (Basic)** – Document-based NoSQL database
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sumitvi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🛠️ Developer Tools
-- **Maven** – Streamlining project build automation
-- **Git** – Version control and collaborative development
-- **VS Code** – Frontend development and code editing
-- **IntelliJ IDEA** – Powerful IDE for Java development
-- **Canva** – UI/UX design and graphics creation
+---
+[![](https://visitcount.itsvg.in/api?id=Sumitvi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Connect With Me
-- **LinkedIn**: (https://www.linkedin.com/in/sumit-vishwakarma-9b0a7b271/)
-- **GitHub**: (https://github.com/Sumitvi)
-- **Email**: (sumitvish196@gmail.com)
-
-📌 _I am always open to new opportunities, collaborations, and discussions in the world of software development. Let's innovate and build something amazing together!_ 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
