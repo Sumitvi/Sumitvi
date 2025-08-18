@@ -1,5 +1,11 @@
 # 💫 About Me:
-Final-year Computer Science student<br>Strong foundation in Java, Spring Boot, Spring Security, JPA, and REST APIs<br>Building full-stack applications using React, Tailwind CSS, and Spring Boot<br>Familiar with relational and non-relational databases like MySQL, PostgreSQL, and MongoDB<br>Experience with Firebase Authentication, JWT, and cloud deployment platforms like Railway and Vercel<br>Actively using Git and GitHub for version control and collaboration
+👨‍💻 Final-year Computer Science student <br>  
+☕ Strong foundation in **Java, Spring Boot, Spring Security, JPA, and REST APIs** <br>  
+⚛️ Building **full-stack applications** using **React, Tailwind CSS, and Spring Boot** <br>  
+🗄️ Familiar with relational & non-relational databases like **MySQL, PostgreSQL, and MongoDB** <br>  
+🔐 Experience with **Firebase Authentication, JWT, and secure authentication mechanisms** <br>  
+☁️ Deploying projects on **Railway & Vercel** <br>  
+🛠️ Actively using **Git & GitHub** for version control and collaboration <br>  
 
 
 ## 🌐 Socials:
