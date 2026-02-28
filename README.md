@@ -16,13 +16,12 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Sumitvi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sumitvi&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="Sumitvi's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Sumitvi&theme=onedark&hide_border=true&cache_seconds=86400" alt="Sumitvi's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitvi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitvi&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Sumitvi&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sumit Vishwakarma's GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitvi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitvi&theme=onedark&radius=10" alt="Sumitvi's Activity Graph" />
